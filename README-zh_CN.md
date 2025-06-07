@@ -1,5 +1,4 @@
 # :computer: 超星学习通自动化完成任务点(命令行版)
-[中文版](README-zh_CN.md)
 
 <p align="center">
     <a href="https://github.com/Samueli924/chaoxing" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
